@@ -27,7 +27,7 @@ const Home = () => {
       <div className="carousel-container">
         <Carousel showThumbs={false} showArrows={false} className="image-carousel">
           <div>
-            <img className="carousel-image" src="https://pin.it/1VM3tpP" alt="Foto 1" />
+            <img className="carousel-image" src="https://br.pinterest.com/pin/1088534172415664254/" alt="Foto 1" />
           </div>
           <div>
             <img className="carousel-image" src={Image2.default} alt="Foto 2" />
