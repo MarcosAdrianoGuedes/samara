@@ -15,7 +15,7 @@ function App() {
           rel="stylesheet"
         />
       </Helmet>
-      <Routes>
+      <Routes basename={process.env.PUBLIC_URL}>
         <Route path="/" element={<Home />} />
       </Routes>
     </div>
