@@ -15,7 +15,7 @@ function App() {
           rel="stylesheet"
         />
       </Helmet>
-      <Routes basename="/samara">
+      <Routes basename={process.env.PUBLIC_URL}>
         <Route path="/" element={<Navigate to="/home" />} />
         <Route path="/home" element={<Home />} />
       </Routes>
