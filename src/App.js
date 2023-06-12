@@ -1,5 +1,5 @@
 import React from 'react';
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, Navigate } from 'react-router-dom';
 import Home from './components/Home';
 import './App.css';
 import { Helmet } from 'react-helmet';
@@ -16,8 +16,9 @@ function App() {
         />
       </Helmet>
       <Routes basename="/samara">
-  <Route path="/" element={<Home />} />
-</Routes>
+        <Route path="/" element={<Navigate to="/home" />} />
+        <Route path="/home" element={<Home />} />
+      </Routes>
     </div>
   );
 }
