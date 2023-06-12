@@ -30,31 +30,31 @@ const Home = () => {
             <img className="carousel-image" src="https://i.imgur.com/hZpQuuL.jpeg" alt="Foto 1" />
           </div>
           <div>
-            <img className="carousel-image" src={Image2.default} alt="Foto 2" />
+            <img className="carousel-image" src="https://i.imgur.com/dlyVdQb.jpeg" alt="Foto 2" />
           </div>
           <div>
-            <img className="carousel-image" src={Image3.default} alt="Foto 3" />
+            <img className="carousel-image" src="https://i.imgur.com/8WPGJ95.jpeg" alt="Foto 3" />
           </div>
           <div>
-            <img className="carousel-image" src={Image4.default} alt="Foto 4" />
+            <img className="carousel-image" src="https://i.imgur.com/qR5Eeds.jpeg" alt="Foto 4" />
           </div>
           <div>
-            <img className="carousel-image" src={Image5.default} alt="Foto 5" />
+            <img className="carousel-image" src="https://i.imgur.com/tbiCSGt.jpeg" alt="Foto 5" />
           </div>
           <div>
-            <img className="carousel-image" src={Image6.default} alt="Foto 6" />
+            <img className="carousel-image" src="https://i.imgur.com/gW1FtjZ.jpeg" alt="Foto 6" />
           </div>
           <div>
-            <img className="carousel-image" src={Image7.default} alt="Foto 7" />
+            <img className="carousel-image" src="https://i.imgur.com/HvSNKU8.jpeg" alt="Foto 7" />
           </div>
           <div>
-            <img className="carousel-image" src={Image8.default} alt="Foto 8" />
+            <img className="carousel-image" src="https://i.imgur.com/ztjF8d9.jpeg" alt="Foto 8" />
           </div>
           <div>
-            <img className="carousel-image" src={Image9.default} alt="Foto 9" />
+            <img className="carousel-image" src="https://i.imgur.com/MfifEtD.jpeg" alt="Foto 9" />
           </div>
           <div>
-            <img className="carousel-image" src={Image10.default} alt="Foto 10" />
+            <img className="carousel-image" src="https://i.imgur.com/7q9j7NT.jpeg" alt="Foto 10" />
           </div>
         </Carousel>
       </div>
