@@ -21,7 +21,7 @@ const Home = () => {
       <h1>Dedicado para a mulher da minha vida</h1>
       <div className="video-container">
         <video autoPlay muted loop>
-          <source src={Video} type="video/mp4" />
+          <source src="https://i.imgur.com/nfY45UQ.mp4" type="video/mp4" />
         </video>
       </div>
       <div className="carousel-container">
