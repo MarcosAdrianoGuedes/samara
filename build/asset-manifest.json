@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/samara/static/css/main.2b7e25ea.css",
-    "main.js": "/samara/static/js/main.842398c2.js",
+    "main.js": "/samara/static/js/main.c3ace3c6.js",
     "static/media/WhatsApp Video 2023-06-11 at 22.50.32.mp4": "/samara/static/media/WhatsApp Video 2023-06-11 at 22.50.32.dc48d76f2ecd5e9a3d61.mp4",
     "static/media/WhatsApp Image 2023-06-11 at 22.50.33 (2).jpeg": "/samara/static/media/WhatsApp Image 2023-06-11 at 22.50.33 (2).abc7d36abbd1ecbd1b97.jpeg",
     "static/media/WhatsApp Image 2023-06-11 at 22.50.29.jpeg": "/samara/static/media/WhatsApp Image 2023-06-11 at 22.50.29.bdde1b14ec5642f16be5.jpeg",
@@ -15,10 +15,10 @@
     "static/media/WhatsApp Image 2023-06-11 at 22.50.34 (1).jpeg": "/samara/static/media/WhatsApp Image 2023-06-11 at 22.50.34 (1).ca93b786c3bf5dd73a11.jpeg",
     "index.html": "/samara/index.html",
     "main.2b7e25ea.css.map": "/samara/static/css/main.2b7e25ea.css.map",
-    "main.842398c2.js.map": "/samara/static/js/main.842398c2.js.map"
+    "main.c3ace3c6.js.map": "/samara/static/js/main.c3ace3c6.js.map"
   },
   "entrypoints": [
     "static/css/main.2b7e25ea.css",
-    "static/js/main.842398c2.js"
+    "static/js/main.c3ace3c6.js"
   ]
 }
